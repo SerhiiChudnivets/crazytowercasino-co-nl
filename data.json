@@ -100,8 +100,66 @@
   "header_menu": null,
   "footer_menu": null,
   "footer_images": null,
-  "Slots": null,
-  "Bonuses": null,
+  "Slots": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead or Alive",
+      "Name": "Dead or Alive",
+      "logo_alt": "Dead or Alive"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+      "name": "Legacy of Dead",
+      "Name": "Legacy of Dead",
+      "logo_alt": "Legacy of Dead"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+      "name": "Book of Dead",
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/ee702c2ac004e5e8a761a4bb41f6fbd1.webp",
+      "name": "Sumo Showdown",
+      "Name": "Sumo Showdown",
+      "logo_alt": "sumo showdown"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/c932a34fed408fb9c1fc0244d217b91b.webp",
+      "name": "Pyramid Coins",
+      "Name": "Pyramid Coins",
+      "logo_alt": "pyramid coins"
+    }
+  ],
+  "Bonuses": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/2e1f0d9522ae8dcfb709cc7d29b53e54.webp",
+      "name": "Welcome Bonus",
+      "Name": "Welcome Bonus",
+      "logo_alt": "Welcome Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/3363a02b633954efffdf51bc4c68773a.webp",
+      "name": "Sport Bonus",
+      "Name": "Sport Bonus",
+      "logo_alt": "Sport Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/31e155d59b7f6d26be4378dfddcb19ab.webp",
+      "name": "Weekly Bonus",
+      "Name": "Weekly Bonus",
+      "logo_alt": "Weekly Bonus"
+    }
+  ],
   "Reviews": null,
   "FAQ": [
     {
@@ -125,9 +183,9 @@
       "question": "Kan ik de spellen op mijn mobiele telefoon spelen?"
     }
   ],
-  "_generated_at": "2026-09-02T10:09:57.361Z",
+  "_generated_at": "2026-09-02T10:16:10.494Z",
   "_version": "1.0.0",
   "content_alt": "crazytower slots NL",
-  "_last_deploy": "2026-09-02T10:09:57.983Z",
-  "_deploy_trigger": "um0ge9"
+  "_last_deploy": "2026-09-02T10:16:11.349Z",
+  "_deploy_trigger": "oq26p"
 }
