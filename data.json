@@ -1,7 +1,7 @@
 {
   "name": "crazytowercasino.co.nl",
   "site_name": "CrazyTower Casino | Officieel online casino in Nederland",
-  "html_head": "",
+  "html_head": "<link rel=\"canonical\" href=\"https://crazytowercasino.co.nl/nl-nl\">\n<link rel=\"alternate\" href=\"https://crazytowercasino.co.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://crazytowercasino.co.nl/nl-nl\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"CrazyTower Casino | Officieel online casino in Nederland\">\n<meta property=\"og:description\" content=\"Ontdek Crazy Tower Casino! Lees alles over onze exclusieve welkomstbonussen, gokkasten, snelle EUR uitbetalingen en iDEAL opties. Registreer vandaag nog!\">\n<meta property=\"og:url\" content=\"crazytowercasino.co.nl\">\n<meta property=\"og:site_name\" content=\"CrazyTower Casino\">\n<meta property=\"og:image\" content=\"\">",
   "url": "crazytowercasino.co.nl",
   "template": "tupchiy",
   "language_code": "nl",
@@ -77,14 +77,14 @@
   "home_name": "CrazyTower Casino ",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": null,
-  "secondary_background": null,
-  "button_background": null,
-  "button_text_color": null,
-  "text_color": null,
-  "color_highlight_text": null,
-  "color_main_btn_text": null,
-  "cta_background": null,
+  "main_background": "#261817",
+  "secondary_background": "#422721",
+  "button_background": "#E4AE2E",
+  "button_text_color": "#EFE2BD",
+  "text_color": "#D19A64",
+  "color_highlight_text": "#EFE2BD",
+  "color_main_btn_text": "#D19A64",
+  "cta_background": "#06A64A",
   "logo": {
     "url": "/uploads/2c485143de2237c104e5ad7934e73175.webp",
     "alt": "crazytower logo"
@@ -94,12 +94,73 @@
     "alt": "crazytower logo"
   },
   "main_background_img": {
-    "url": "/uploads/bef197a8b8b335900131b8a2a7f51d08.webp",
-    "alt": "crazytower casino"
+    "url": "/uploads/e002b9319e1c5ad3c0bee817d91ac5d0.webp",
+    "alt": "crazytower baner"
   },
-  "header_menu": null,
-  "footer_menu": null,
-  "footer_images": null,
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Spellen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Bonussen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Sport",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Live Casino",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": "Over ons",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contactpersonen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Privacybeleid",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Cookiebeleid",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "",
+      "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
+      "image_alt": "18+"
+    },
+    {
+      "link": "https://www.gamcare.org.uk/",
+      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
+      "image_alt": "gamcare"
+    }
+  ],
   "Slots": [
     {
       "link": "/play/",
@@ -183,9 +244,9 @@
       "question": "Kan ik de spellen op mijn mobiele telefoon spelen?"
     }
   ],
-  "_generated_at": "2026-09-02T10:16:10.494Z",
+  "_generated_at": "2026-09-02T10:52:09.455Z",
   "_version": "1.0.0",
   "content_alt": "crazytower slots NL",
-  "_last_deploy": "2026-09-02T10:16:11.349Z",
-  "_deploy_trigger": "oq26p"
+  "_last_deploy": "2026-09-02T10:52:10.082Z",
+  "_deploy_trigger": "02ktjm"
 }
