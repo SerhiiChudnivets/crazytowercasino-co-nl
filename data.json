@@ -361,10 +361,10 @@
       "question": "Kan ik de spellen op mijn mobiele telefoon spelen?"
     }
   ],
-  "_generated_at": "2026-09-04T09:01:48.384Z",
+  "_generated_at": "2026-09-04T09:08:54.691Z",
   "_version": "1.0.0",
   "html_head_alt": "crazytower baner",
   "content_alt": "crazytower slots NL",
-  "_last_deploy": "2026-09-04T09:01:48.949Z",
-  "_deploy_trigger": "odpfln"
+  "_last_deploy": "2026-09-04T09:08:55.344Z",
+  "_deploy_trigger": "ui2vs"
 }
