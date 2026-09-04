@@ -186,7 +186,7 @@
   "text_color": "#D19A64",
   "color_highlight_text": "#EFE2BD",
   "color_main_btn_text": "#000000",
-  "cta_background": "#1C7948",
+  "cta_background": "#1C7948BA",
   "logo": {
     "url": "/uploads/2c485143de2237c104e5ad7934e73175.webp",
     "alt": "crazytower logo"
@@ -361,10 +361,10 @@
       "question": "Kan ik de spellen op mijn mobiele telefoon spelen?"
     }
   ],
-  "_generated_at": "2026-09-04T08:40:50.304Z",
+  "_generated_at": "2026-09-04T08:49:01.150Z",
   "_version": "1.0.0",
   "html_head_alt": "crazytower baner",
   "content_alt": "crazytower slots NL",
-  "_last_deploy": "2026-09-04T08:40:50.846Z",
-  "_deploy_trigger": "e63kvgj"
+  "_last_deploy": "2026-09-04T08:49:01.710Z",
+  "_deploy_trigger": "1siqas"
 }
