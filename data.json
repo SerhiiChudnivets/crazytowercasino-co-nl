@@ -253,32 +253,27 @@
   ],
   "footer_images": [
     {
-      "link": "",
+      "link": "/play/",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
     },
     {
-      "link": "https://www.gamcare.org.uk/",
-      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
-      "image_alt": "gamcare"
-    },
-    {
-      "link": "",
+      "link": "/play/",
       "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
       "image_alt": "mastercard"
     },
     {
-      "link": "",
+      "link": "/play/",
       "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
       "image_alt": "visa"
     },
     {
-      "link": "",
+      "link": "/play/",
       "image": "/uploads/418b10f20c5a107495678db5348856b3.svg",
       "image_alt": "interac"
     },
     {
-      "link": "",
+      "link": "/play/",
       "image": "/uploads/2767b5abec611eeaecc8af4ad65c2a43.svg",
       "image_alt": "btc"
     }
@@ -366,10 +361,10 @@
       "question": "Kan ik de spellen op mijn mobiele telefoon spelen?"
     }
   ],
-  "_generated_at": "2026-09-04T07:39:31.685Z",
+  "_generated_at": "2026-09-04T08:10:22.784Z",
   "_version": "1.0.0",
   "html_head_alt": "crazytower baner",
   "content_alt": "crazytower slots NL",
-  "_last_deploy": "2026-09-04T07:39:32.256Z",
-  "_deploy_trigger": "ghvu9"
+  "_last_deploy": "2026-09-04T08:10:23.412Z",
+  "_deploy_trigger": "d39uwu"
 }
